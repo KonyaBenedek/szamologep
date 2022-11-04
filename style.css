@@ -1,0 +1,33 @@
+br {
+    display: block;
+    content: "";
+    height: 5px;
+}
+
+.gomb {
+    height: 35px;
+    font-size: larger;
+    width: 80px;
+}
+body {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40px;
+}
+input {
+    height: 25px;
+    width: 250px;
+    font-size: 25px;
+}
+
+form {
+    background-color: lightgreen;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2:hover {
+    font-size: 40px;
+    color: red;
+}
